@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* align-self: center; */
+    color: white;
+    background-color: #212121;
+}
+
+h1,h2{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.btns{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    border-radius: 10%;
+    border: none;
+    font-size: 20px;
+}

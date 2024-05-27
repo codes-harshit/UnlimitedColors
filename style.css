@@ -30,3 +30,8 @@ button{
     border: none;
     font-size: 20px;
 }
+h3{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
